@@ -76,7 +76,7 @@ Siga os passos abaixo para rodar o projeto localmente.
 ### Clonando o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/quant-dashboard.git
+git clone https://github.com/O-Gui-Carvalho/quant-dashboard.git
 cd quant-dashboard
 ```
 
